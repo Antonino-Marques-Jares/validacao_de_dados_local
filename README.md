@@ -37,6 +37,7 @@ Devem ter dono (owner), curador e processo formal de mudança.
 * Será que o CNPJ atende à conformidade ? -> Testar se o CNPJ tem 14 digitos
 * Será que existe mais de um registro para o mesmo ID ?
 * Será que existe mais de um registro para um determinado cliente ?
+* Será que existe nome de clientes SEMELHANTES que podem ser registros duplicados ?
 
 ### 2. Retificar os Dados que não passam na qualidade de dados
 ### 3. Identificar a responsabilidade sobre os dados
