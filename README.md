@@ -31,12 +31,12 @@ Devem ter dono (owner), curador e processo formal de mudança.
 6. Completude - Todos os dados necessários estão presentes — sem campos faltantes, nulos indevidos ou registros ausentes.
 
 ### Suposições a serem verificadas
-Será que o estado do registro é válido ? -> testar se o estado é um dos estados brasileiros
-Será que existe a cidade informada realmente pertence aquele estado ? -> testar se aquela cidade pertence aquele estado.
-Será que este registro está completo ? -> testar se existe algum dado nulo.
-Será que o CNPJ atende à conformidade ? -> Testar se o CNPJ tem 14 digitos
-Será que existe mais de um registro para o mesmo ID ?
-Será que existe mais de um registro para um determinado cliente ?
+* Será que o estado do registro é válido ? -> testar se o estado é um dos estados brasileiros
+* Será que existe a cidade informada realmente pertence aquele estado ? -> testar se aquela cidade pertence aquele estado.
+* Será que este registro está completo ? -> testar se existe algum dado nulo.
+* Será que o CNPJ atende à conformidade ? -> Testar se o CNPJ tem 14 digitos
+* Será que existe mais de um registro para o mesmo ID ?
+* Será que existe mais de um registro para um determinado cliente ?
 
 ### 2. Retificar os Dados que não passam na qualidade de dados
 ### 3. Identificar a responsabilidade sobre os dados
