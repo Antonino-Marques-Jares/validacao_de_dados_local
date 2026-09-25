@@ -1,0 +1,26 @@
+id_cliente,nome_cliente,endereco,cidade,estado,cnpj
+1,Queijaria Boa Massa,Rua Boa 282,Belo Horizonte,MG,38704278443537
+2,Restaurante Sabor da Roça,Rua Sabor 757,Campinas,SP,51118180407845
+3,Mercado Bom Preço,Rua Bom 279,Curitiba,PR,23579980402940
+4,Laticínios do Sul,Rua do 775,Porto Alegre,RS,95842293722549
+5,Supermercado Leite e Mel,Rua Leite 676,Recife,PE,29073506471229
+6,Cantina da Serra,Rua da 38,Fortaleza,CE,42033300135209
+7,Empório do Queijo Canastra,Rua do 229,Salvador,BA,95546201460520
+8,Restaurante Tacho de Ouro,Rua Tacho 923,Florianópolis,SC,30142799259280
+9,Mercado Sítio Feliz,Rua Sítio 403,Goiânia,GO,84323816906331
+10,Laticínios Vale Verde,Rua Vale 177,Brasília,DF,88729707173011
+11,Bodega do Sabor,Rua do 497,Uberlândia,MG,45318018583501
+12,Armazém do Gado,Rua do 607,João Pessoa,PB,62467428054530
+13,Restaurante Sabor Mineiro,Rua Sabor 435,São Luís,MA,14884109290478
+14,Mercado Queijinho,Rua Queijinho 863,Natal,RN,45009112555011
+15,Empório Sertanejo,Rua Sertanejo 252,Aracaju,SE,99087177730612
+16,Mercearia Pingo de Leite,Rua Pingo 184,Palmas,TO,89267944230562
+17,Cantinho da Roça,Rua da 54,Cuiabá,MT,99381538046576
+18,Mercado Rancho Alegre,Rua Rancho 980,,MS,16820012396411
+19,Restaurante Fazenda & Sabor,Rua Fazenda 531,Manaus,AM,80042646533900
+20,Empório da Canastra,Rua da 112,Macapá,AP,4346975957570
+21,Mercado Silva, Rua de Sá 121, Vitória, ES, 43667789271700
+21,Mercado Silva, Rua João de Barro 2, Manaus, AM, 43668953170021
+22,Emp. do Queijo Canastra,Rua do 229,Salvador,BA,9554620
+23,Rest. Savor da Roca,Rua Sabor 757,Campinas,SP,51118180407845 
+24,Hotel Fazenda & Sabor, Rua Fazenda 531,Manaus,AM,80042

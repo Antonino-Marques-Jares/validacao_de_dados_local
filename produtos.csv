@@ -1,0 +1,11 @@
+id_produto,descricao_produto,peso_kg,validade_dias,custo_producao
+1,Manteiga,0.21,64,7.99
+2,Leite Desnatado,1.96,82,7.26
+3,Queijo Minas Frescal,1.31,63,7.03
+4,Requeijão,1.39,44,9.51
+5,Queijo Mussarela,0.36,60,11.83
+6,Doce de Leite,1.72,68,5.49
+7,Iogurte Natural,0.92,31,7.92
+8,Creme de Leite,0.36,60,8.79
+9,Queijo Prato,0.83,9,11.88
+10,Leite Integral,1.66,61,12.53

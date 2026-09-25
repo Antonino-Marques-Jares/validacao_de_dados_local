@@ -1,0 +1,107 @@
+id_cliente,id_pedido,nome_item,quantidade,valor
+18,1,Manteiga,23,392.38
+14,2,Leite Desnatado,24,147.36
+4,3,Leite Desnatado,28,523.88
+2,4,Queijo Minas Frescal,24,655.44
+9,5,Manteiga,11,186.34
+8,6,Requeijão,23,340.63
+13,7,Queijo Minas Frescal,30,174.9
+2,8,Queijo Minas Frescal,15,157.5
+5,9,Queijo Mussarela,28,545.44
+14,10,Doce de Leite,24,251.76
+8,11,Doce de Leite,20,340.6
+3,12,Doce de Leite,22,221.98
+7,13,Queijo Minas Frescal,12,340.44
+9,14,Doce de Leite,22,69.74
+12,15,Queijo Mussarela,9,203.31
+19,16,Queijo Minas Frescal,22,497.64
+2,17,Manteiga,9,66.69
+17,18,Manteiga,21,455.07
+1,19,Queijo Mussarela,4,50.52
+3,20,Iogurte Natural,25,466.5
+7,21,Requeijão,26,657.8
+16,22,Iogurte Natural,7,179.76
+1,23,Leite Desnatado,19,275.31
+4,24,Iogurte Natural,4,43.92
+20,25,Creme de Leite,7,159.6
+17,26,Creme de Leite,12,253.68
+14,27,Queijo Minas Frescal,18,425.52
+19,28,Queijo Minas Frescal,10,63.0
+8,29,Queijo Prato,24,305.04
+9,30,Creme de Leite,2,24.16
+7,31,Creme de Leite,26,383.24
+17,32,Manteiga,26,434.72
+18,33,Iogurte Natural,3,78.9
+16,34,Manteiga,3,62.04
+4,35,Queijo Minas Frescal,24,217.92
+1,36,Queijo Prato,17,257.04
+19,37,Queijo Mussarela,28,131.88
+7,38,Doce de Leite,30,240.6
+20,39,Queijo Mussarela,2,45.32
+8,40,Leite Integral,12,220.44
+12,41,Queijo Mussarela,17,343.57
+20,42,Queijo Mussarela,11,130.24
+19,43,Iogurte Natural,25,411.0
+5,44,Leite Integral,23,636.41
+17,45,Queijo Minas Frescal,2,37.64
+19,46,Queijo Prato,30,816.3
+20,47,Doce de Leite,26,467.22
+16,48,Doce de Leite,9,110.7
+20,49,Creme de Leite,1,4.52
+15,50,Creme de Leite,4,80.28
+7,51,Leite Integral,2,43.32
+6,52,Iogurte Natural,1,11.86
+14,53,Creme de Leite,19,127.49
+19,54,Leite Integral,24,508.56
+4,55,Leite Integral,8,118.56
+7,56,Manteiga,11,265.43
+4,57,Doce de Leite,14,414.54
+10,58,Queijo Minas Frescal,3,58.29
+14,59,Queijo Mussarela,20,255.6
+2,60,Queijo Mussarela,10,160.7
+8,61,Doce de Leite,13,128.57
+19,62,Queijo Prato,5,116.05
+3,63,Creme de Leite,23,312.11
+11,64,Doce de Leite,28,631.96
+6,65,Manteiga,18,387.36
+3,66,Iogurte Natural,7,27.51
+3,67,Requeijão,20,276.4
+3,68,Doce de Leite,17,348.5
+15,69,Iogurte Natural,19,451.25
+12,70,Doce de Leite,7,149.94
+3,71,Leite Desnatado,17,388.96
+20,72,Queijo Minas Frescal,6,62.28
+16,73,Doce de Leite,30,548.7
+7,74,Leite Integral,28,457.8
+18,75,Queijo Mussarela,2,54.08
+17,76,Queijo Prato,24,167.28
+6,77,Doce de Leite,22,221.76
+16,78,Leite Integral,27,312.12
+19,79,Requeijão,21,530.88
+3,80,Doce de Leite,9,70.83
+10,81,Leite Integral,21,574.56
+6,82,Iogurte Natural,26,259.22
+9,83,Iogurte Natural,20,423.6
+16,84,Requeijão,25,631.0
+19,85,Queijo Prato,19,72.96
+5,86,Iogurte Natural,17,161.5
+11,87,Leite Desnatado,2,54.96
+16,88,Requeijão,23,283.82
+10,89,Creme de Leite,1,20.22
+15,90,Iogurte Natural,6,158.46
+13,91,Doce de Leite,17,295.12
+16,92,Creme de Leite,27,727.11
+2,93,Queijo Minas Frescal,3,86.43
+3,94,Leite Desnatado,23,479.09
+7,95,Iogurte Natural,23,310.27
+1,96,Leite Desnatado,19,319.77
+12,97,Requeijão,9,99.9
+7,98,Leite Integral,2,35.12
+7,99,Leite Integral,14,104.16
+11,100,Queijo Prato,26,626.6
+21, 101, Leite, 100, 500.0
+21, 102, Soro do Leite, 600, 500.0
+21, 103, Sal, 200, 20.50
+22, 104, Leite, 200, 1000
+22, 105, Sal, 200, 1000
+22, 106, Soro do Leite, 200, 170.0
